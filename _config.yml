@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Yoo Chaewon"
-  avatar           :  "/assets/images/dam.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/images/profile.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "신나고 재밌게🤪"
   location         : "Republic of Korea"
   email            :
