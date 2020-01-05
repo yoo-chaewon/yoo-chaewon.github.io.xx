@@ -12,22 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HELLO-CHAEWON"
+title                    : "HELLo-Chaewon"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yoo Chaewon"
-description              : "신나고 재미난 거😛"
+description              : "신나고 재밌게🤪"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -112,44 +111,22 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "신나고 재밌게🤪"
   location         : "Seoul, Korea"
-  email            : 
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      
-      # url: "chaewon.dev@gmail.com"
+      # url: mailto:chaewon.dev@gamil.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      
       # url: "https://github.com/yoo-chaewon"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      
-      # url:
+      # url: "https://github.com/yoo-chaewon"
+
 
 
 # Reading Files
