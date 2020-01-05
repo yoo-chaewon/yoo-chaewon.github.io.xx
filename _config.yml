@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yoo Chaewon"
 description              : "신나고 재밌게🤪"
-url                      : "https://yoo-chaewon.github.io"
+url                      : "https://yoo-chaewon.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://yoo-chaewon.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -115,17 +115,17 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:chaewon.dev@gamil.com
+      url: mailto:chaewon.dev@gamil.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/yoo-chaewon"
+      url: "https://github.com/yoo-chaewon"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/yoo-chaewon"
+      url: "https://github.com/yoo-chaewon"
 
 
 
