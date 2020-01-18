@@ -50,7 +50,7 @@ toc_sticky: true # 스크롤 내릴때 같이 내려가는 목차
 
 - ‼️설치 완료 후
 
-  ```
+  ```bash
   npm install -g expo-cli
   ```
 
@@ -62,13 +62,13 @@ toc_sticky: true # 스크롤 내릴때 같이 내려가는 목차
 
 1. 설치
 
-   ```
+   ```bash
    $ sudo curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash
    ```
 
 2. 확인
 
-   ```
+   ```bash
    $ nvm ls
    
    -bash: nvm: command not found //이렇게 뜬다.
@@ -78,11 +78,11 @@ toc_sticky: true # 스크롤 내릴때 같이 내려가는 목차
 
 4. 확인
 
-   ```
+   ```bash
    $ vi ~/.bash_profile
    ```
 
-   ```
+   ```bash
    export NVM_DIR="$HOME/.nvm"
    [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm
    //이 코드가 있는지 확인 한다.
@@ -90,17 +90,17 @@ toc_sticky: true # 스크롤 내릴때 같이 내려가는 목차
 
 5. 다시 종료했다가 켠다.(종료 했다 켜는건 만병통치)
 
-   ```
+   ```bash
    source ~/.bash_profile
    ```
 
 6. 설치 확인 
 
-   ```
+   ```bash
    $ nvm ls
    ```
 
-   ```
+   ```bash
    //결과
                N/A
    node -> stable (-> N/A) (default)
@@ -113,14 +113,14 @@ toc_sticky: true # 스크롤 내릴때 같이 내려가는 목차
 
 1. 설치
 
-   ```
+   ```bash
    $ nvm install 6.10.1
    //가장 안정화된 버전이라고 한다.
    ```
 
 2. 확인
 
-   ```
+   ```bash
    $ nvm ls
    ```
 
@@ -140,7 +140,7 @@ toc_sticky: true # 스크롤 내릴때 같이 내려가는 목차
 
 3. 노드 버전 확인
 
-   ```
+   ```bash
    $ node -v
    ```
 
@@ -154,7 +154,7 @@ toc_sticky: true # 스크롤 내릴때 같이 내려가는 목차
 
 1. 설치
 
-   ```
+   ```bash
    $ nvm install 12.1.0
    ```
 
@@ -171,7 +171,7 @@ toc_sticky: true # 스크롤 내릴때 같이 내려가는 목차
 
 3. 터미널 시작시 노드 기본 버전설정
 
-   ```
+   ```bash
    nvm alias default v12.14.0
    
    //결과
